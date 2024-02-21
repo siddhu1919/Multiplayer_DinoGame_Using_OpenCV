@@ -2,7 +2,7 @@
 
 Welcome to **Dual Dino Dash**, the classic Chrome Dino game reimagined for two players! Built with the power of Python 🐍 and OpenCV 📷, this game transforms your local network into a prehistoric playground where only the quickest survive. Jump into the action with a friend and find out who's the ultimate dino dasher!
 
-![Dual Dino Dash Banner](https://i.ytimg.com/vi/50RGCN3by0E/sddefault.jpg?v=5e062c66)
+![Dual Dino Dash Banner](https://github.com/siddhu1919/RESOURCES_DATA/blob/main/dino%20game.jpg)
 
 ## 🚀 Features
 
