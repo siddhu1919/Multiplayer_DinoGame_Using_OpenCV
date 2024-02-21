@@ -73,7 +73,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📫 Contact
 
-Your Name - [SIDDHARTH.G.SINGH](https://twitter.com/yourtwitter)
+Your Name - [SIDDHARTH.G.SINGH](https://www.linkedin.com/in/siddharth-g-singh-46b610201)
 
 Project Link: [https://github.com/siddhu1919/Multiplayer_DinoGame_Using_OpenCV](https://github.com/siddhu1919/Multiplayer_DinoGame_Using_OpenCV)
 
